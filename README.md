@@ -15,4 +15,4 @@ Description:
 4- Order the list from A to Z 
 5- Count the average word length for the list (rounded)
 6- Count the average element length for the list (rounded and without space)
-7- Save the list in (new.csv) file 
+7- Save the list in (new.csv) file.
