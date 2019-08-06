@@ -8,7 +8,8 @@ Given this word list (https://docs.google.com/spreadsheets/d/1Clf6VpAwHRvTxeFft2
 ----------------------------------------------------------------------------------------------------------------------------------
 the code is commented.
 ----------------------------------------------------------------------------------------------------------------------------------
-#Description: 
+Description: 
+------------
 1- Read the list from csv file (old.csv)
 2- Count the number of word in list 
 3- Count the number of item in list
