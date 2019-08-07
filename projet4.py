@@ -53,7 +53,8 @@ print("-the average [element length] for the list is : ",round(average_element))
 
 #generate new csv file and save list
 
-print("\n------------------------------------ list saved in new.csv -----------------------------------\n") 
 new_file = open("new.csv",'w')
 for line in my_list:
     new_file.write(line + "\n")
+
+print("\n------------------------------------ list saved in new.csv -----------------------------------\n") 
