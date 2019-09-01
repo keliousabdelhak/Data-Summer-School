@@ -1,4 +1,4 @@
-# Data-Summer-School-[DataSience]
+# [DataSience]-Data-Summer-School
 ----------------------------------------------------------------------------------------------------------------------------------
 Project 4:
 Given this word list (https://docs.google.com/spreadsheets/d/1Clf6VpAwHRvTxeFft2TRCbSxLvMHO14zJiyA7fH1l5Y/edit#gid=0), write a script to:
